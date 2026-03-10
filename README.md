@@ -7,3 +7,4 @@
 2. [Haziq Hamid](https://github.com/ZiqNas) - `Development`, `Theory`
 3. Yap Wing Fen - `Theory`
 4. Wan Mohd Ebtisyam Mustaqim bin Wan Mohd Daniyal - `Theory`
+5. K
